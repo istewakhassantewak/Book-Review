@@ -1,0 +1,98 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg",
+        "review": "Atomic Habits is one of the most influential self-development books of recent years because it explains how tiny improvements made consistently can create massive long-term results. James Clear presents the idea that success is not achieved through one big action but through small habits repeated every day. The author explains the psychology and science behind habit formation in a very simple and understandable way, making the book accessible for students, professionals, entrepreneurs, and general readers. One of the strongest aspects of the book is how practical it is. Instead of only discussing theories, the author provides clear strategies for building positive routines, removing bad habits, staying disciplined, and improving productivity. Real-world examples from athletes, business leaders, artists, and successful individuals make the lessons more relatable and engaging. The book also introduces concepts such as identity-based habits, habit stacking, and the four laws of behavior change, which help readers apply the ideas in real life. Many readers appreciate how motivating and actionable the book feels because every chapter contains practical advice that can be implemented immediately. Whether someone wants to improve studying, fitness, time management, work performance, or personal discipline, Atomic Habits provides a realistic framework for long-lasting growth and improvement.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Development",
+        "tags": [
+            "Productivity",
+            "Motivation"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 2,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+        "review": "The Alchemist is a deeply inspirational novel that follows the journey of Santiago, a young shepherd boy who dreams of finding treasure near the Egyptian pyramids. Although the story appears simple on the surface, it contains powerful lessons about destiny, ambition, fear, self-discovery, and following one's dreams. During his travels, Santiago meets different people who teach him valuable life lessons and help him understand the importance of listening to his heart. Paulo Coelho writes in a poetic and philosophical style that encourages readers to reflect on their own goals and life journeys. The novel explores themes such as courage, persistence, spirituality, and the idea that the universe helps those who truly pursue their dreams. Many readers connect emotionally with Santiago because his fears, doubts, and hopes feel realistic and relatable. The storytelling is smooth and emotional, making the book easy to read while still carrying deep meaning. The Alchemist has inspired millions of readers around the world because its message about pursuing personal dreams and discovering purpose remains timeless and universal. It is widely considered a modern classic that leaves readers motivated and thoughtful long after finishing the final chapter.",
+        "totalPages": 208,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Adventure",
+            "Philosophical"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 3,
+        "bookName": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg",
+        "review": "Rich Dad Poor Dad is one of the most popular personal finance books ever written because it completely changes the way readers think about money, jobs, investing, and financial independence. Robert T. Kiyosaki compares the financial philosophies of two father figures in his life: his biological father, referred to as the poor dad, and the father of his best friend, referred to as the rich dad. Through these comparisons, the book explains how wealthy people think differently about assets, liabilities, businesses, and passive income. One of the major strengths of the book is its ability to simplify financial concepts that often seem difficult for beginners. Instead of focusing only on saving money or working hard at a traditional job, the author encourages readers to build assets, invest wisely, and create income sources that generate wealth over time. The storytelling format makes the lessons easy to understand and memorable for readers of all ages. Many people find the book motivational because it challenges traditional beliefs about education and career success. It encourages financial literacy, independent thinking, and entrepreneurship in a practical and engaging manner. Although some ideas in the book are debated, its influence on modern financial education is undeniable, and it continues to inspire readers who want greater financial freedom and long-term wealth creation.",
+        "totalPages": 336,
+        "rating": 4.7,
+        "category": "Finance",
+        "tags": [
+            "Business",
+            "Money Management"
+        ],
+        "publisher": "Plata Publishing",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81JJPDNlxSL.jpg",
+        "review": "The Silent Patient is a psychological thriller that masterfully combines suspense, mystery, and emotional tension to create an unforgettable reading experience. The story centers around Alicia Berenson, a successful painter who suddenly stops speaking after being accused of murdering her husband. Her silence becomes one of the most fascinating mysteries in the novel. Theo Faber, a psychotherapist, becomes deeply determined to uncover the truth behind Alicia's condition and gradually becomes emotionally involved in her story. As the narrative progresses, readers are exposed to hidden secrets, psychological complexities, and shocking revelations that continuously increase the suspense. Alex Michaelides uses clever storytelling techniques, alternating perspectives, and carefully placed clues to keep readers guessing until the very end. The pacing of the novel is strong, with each chapter building curiosity and emotional intensity. One of the most praised aspects of the book is its unexpected ending, which surprises many readers and completely changes their understanding of the story. The psychological depth of the characters makes the narrative feel realistic and emotionally impactful. Fans of mystery, crime, and psychological thrillers often consider this book highly engaging because of its intelligent plot structure and dramatic twists.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": 5,
+        "bookName": "Deep Work",
+        "author": "Cal Newport",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+        "review": "Deep Work explores the importance of focused, distraction-free concentration in an age where technology, social media, and constant notifications are reducing people's ability to think deeply. Cal Newport argues that deep work is becoming increasingly rare while also becoming more valuable in the modern professional world. According to the author, people who can focus intensely without distraction are more likely to achieve high-quality results, learn difficult skills faster, and perform better in their careers. The book combines scientific research, historical examples, and practical strategies to explain why deep focus matters and how it can be developed. Newport discusses the habits and routines used by highly successful individuals such as writers, scientists, and entrepreneurs to maximize productivity and creativity. The advice provided in the book is realistic and actionable, including methods for reducing distractions, scheduling focused work sessions, limiting social media usage, and improving concentration. Many readers appreciate how the book challenges modern work culture and encourages meaningful productivity rather than constant busyness. Students, developers, writers, and professionals often find the concepts extremely useful because the strategies can improve learning efficiency, work performance, and personal satisfaction. The book remains highly recommended for anyone who wants to build discipline, increase focus, and produce higher-quality work.",
+        "totalPages": 304,
+        "rating": 4.6,
+        "category": "Productivity",
+        "tags": [
+            "Focus",
+            "Career"
+        ],
+        "publisher": "Grand Central Publishing",
+        "yearOfPublishing": 2016
+    },
+    {
+        "bookId": 6,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
+        "review": "Harry Potter and the Sorcerer's Stone is the first novel in the globally famous Harry Potter series and serves as a magical introduction to the world of Hogwarts School of Witchcraft and Wizardry. The story follows Harry Potter, an orphaned boy who discovers on his eleventh birthday that he is actually a wizard. As Harry enters Hogwarts, he forms strong friendships with Ron Weasley and Hermione Granger while learning magic, facing challenges, and uncovering secrets connected to his past. J.K. Rowling creates a richly imaginative world filled with magical creatures, enchanted objects, mysterious locations, and memorable characters that capture the imagination of readers of all ages. The novel successfully combines fantasy, adventure, humor, friendship, and emotional moments in a balanced and engaging way. Readers are drawn into the excitement of magical classes, Quidditch matches, hidden chambers, and the growing mystery surrounding the Sorcerer's Stone. The writing style is accessible and entertaining, making it enjoyable for both young readers and adults. One of the reasons the book became so successful is its ability to make readers emotionally connected to the characters and fully immersed in the magical universe. Harry Potter and the Sorcerer's Stone remains one of the most beloved fantasy novels ever written and continues to inspire generations of readers worldwide.",
+        "totalPages": 309,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Adventure"
+        ],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    }
+]
