@@ -19,7 +19,8 @@ const BookDetails = () => {
                     setLocalItem(type, id)
                     toast(`Added To ${type}`)
                 } else {
-                    toast(`It was already readed`)
+
+                    toast.error("It was already read");
                 }
             } else {
                 setLocalItem(type, id)
@@ -27,7 +28,7 @@ const BookDetails = () => {
             }
 
         } else {
-            toast(`Already Added To ${type}`)
+            toast.error(`Already Added To ${type}`)
         }
     }
 
