@@ -10,10 +10,13 @@ import ListedBooks from './components/ListedBooks/ListedBooks';
 import PagesRead from './components/PagesRead/PagesRead';
 import Home from './components/Home/Home';
 import BookDetails from './components/BookDetails/BookDetails';
+import ErrorPage from './components/ErrorPage/ErrorPage';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    hydrateFallbackElement: <div>Loading...</div>,
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: '/',
